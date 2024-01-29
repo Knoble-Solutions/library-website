@@ -1,0 +1,5 @@
+Add README file template
+create toolset for on the go library when interviewing 
+- most popular methods
+- most common  design patterns
+- most popular CSS templates
